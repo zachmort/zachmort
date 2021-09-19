@@ -5,4 +5,6 @@ I'm a Data Analyst who is interested in analysing data to derive insights, machi
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://zachmort.github.io/">website</a> 🖥
-- Sharing updates on <a href="https://www.linkedin.com/in/https:/zachary-mortenson-8923b4152/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/https:/zachary-mortenson-8923b4152/">dskfjoisdflkdslksfdsf</a> 💼
+
+this is a read me file
