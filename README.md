@@ -1,6 +1,6 @@
 # Hi, I'm Zach Mortenson 👋🏼 
 
-I'm a Data Analyst who is interested in analyzing data to derive insights, machine learning and discovering the best ways to translate data in meaningful visualizations.
+I'm a Data Analyst who is interested in deriving insights from data, machine learning and discovering the best ways to translate data in meaningful visualizations and actionable recommendations.
 🔭 I’m currently working on R, Python and SQL projects in all areas. I have recently started blogging about topics I love in an effort to ensure I have solid fundementals but to also teach others!
 
 ## Find me around the web 🌎:
