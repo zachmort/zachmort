@@ -5,5 +5,5 @@ I'm a Data Analyst who is interested in deriving insights from data, machine lea
 
 ## Find me around the web 🌎:
 - Everything about me in my <a href="https://zachmort.github.io/">website</a> 🖥
-- Sharing updates on <a href="[https://www.linkedin.com/in/https:/zachary-mortenson-8923b4152/](https://www.linkedin.com/in/zachary-mortenson-8923b4152/)">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/zachary-mortenson-8923b4152/">LinkedIn</a> 💼
 - Posting articles on <a href="https://medium.com/@zach.mortenson7">MY BLOG!</a>
